@@ -1,6 +1,6 @@
 TARGET		:= vitaWolfen
 WMODE		:= 1
-TITLE		:= WOLF00001
+TITLE		:= PCSE92055
 
 LIBS = -limgui -lvitagl -lSceAppmgr_stub -lSceDisplay_stub -lSceGxm_stub \
 	-lSceSysmodule_stub -lSceCtrl_stub -lm -lc -lSceCommonDialog_stub -lz \
